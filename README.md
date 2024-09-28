@@ -12,7 +12,10 @@ I'm a passionate software developer specializing in **Java**, **Python**, and **
 
 ## 📈 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanublez&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanublez&show_icons=true&theme=blueberry)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhanublez&theme=blueberry&hide_border=false)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanublez&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 💬 Connect with me:
 
